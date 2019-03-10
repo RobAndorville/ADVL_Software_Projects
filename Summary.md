@@ -1,8 +1,11 @@
 # Summary of the Andorville™ Software Projects
 Andorville™ applications are small single-purpose programs that are easy to code and modify. They can be connected and coordinated through the Application Network. "H7" code is used to control each application and communicate between applications. This code stores the machine intelligence of a multi-project application.
 
+***Message Service***
+The Message Service uses the Microsoft® Windows® Communication Foundation (WCF) for Andorville™ applications to exchange information and interact to perform higher level functions.
+
 ***Application Network***
-The Application Network uses the Microsoft® Windows® Communication Foundation (WCF) to allow Andorville™ applications to exchange information and interact to perform higher level functions.
+The Application Network Software is used to create a hierarchy of projects to build a data model. The activity of the project host applications is coordinated to perform processing and analysis on the data model.
 
 ***Utilities Library***
 The Utilties Class Library contains a set of common classes used by Andorville™ applications. It contains classes to manage projects, compress data, and run XMessage instructions used to communicate between applications.
