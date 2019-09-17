@@ -1,11 +1,11 @@
 # Summary of the Andorville™ Software Projects
 Andorville™ applications are small single-purpose programs that are easy to code and modify. They can be connected and coordinated through the Application Network. "H7" code is used to control each application and communicate between applications. This code stores the machine intelligence of a multi-project application.
 
-***Message Service***
-The Message Service uses the Microsoft® Windows® Communication Foundation (WCF) for Andorville™ applications to exchange information and interact to perform higher level functions.
+***Network***
+The Andorville™ Network (previously called the Message Service) uses the Microsoft® Windows® Communication Foundation (WCF) allows Andorville™ applications to exchange information and interact to perform higher level functions. (Update in progress.)
 
-***Application Network***
-The Application Network Software is used to create a hierarchy of projects to build a data model. The activity of the project host applications is coordinated to perform processing and analysis on the data model.
+***Project Network***
+The Project Network Software (previously called the Application Network) is used to create a hierarchy of projects to build a data model. The activity of the project host applications is coordinated to perform processing and analysis of the data model. (Update in progress.)
 
 ***Utilities Library***
 The Utilties Class Library contains a set of common classes used by Andorville™ applications. It contains classes to manage projects, compress data, and run XMessage instructions used to communicate between applications.
@@ -17,7 +17,7 @@ The Application Template is a simple example application containing all the soft
 The Coordinates application is used to convert between different geodetic and projected coordinates. It uses the EPSG Geodetic Parameter Dataset. The software uses the Coordinates Class Library.
 
 ***Import***
-The Import application is used to import data from a text file into a database.
+The Import application is used to import data from text files into a database.
 
 ***Database Tools***
 The Database Tools application is used to create, edit and save a database design and create new databases and tables.
@@ -34,5 +34,17 @@ The Information Library application stores a collection of related information a
 ***Well Deviation***
 The Well Deviation application calculates the deviation of an oil well from deviation log measurements. The software uses the Coordinates application to calculate the projected coordinates of the well location from the geodetic coordinates. The well path is plotted in plan and vertical section views.
 
+***Regression***
+The Regression application provides linear and non-linear regression services to applications connected to the Andorville™ Network. (Update in progress.)
+
 ***"H7" Code***
-"H7" code consists of a sequence of information/destination pairs that are used to control an Andorville™ application. This code is converted to XML format for file storage.
+"H7" code consists of a sequence of information/destination pairs that are used to control an Andorville™ application. This code is converted to XML format for file storage. "H7+" code contains instructions for loops, branches and subroutines and is used to store processing sequences.
+
+***Other Projects in Development***
+The "M7" alternative mathematics system is based in "H7+" but with mathematical instructions added. This alternative mathematical system uses only integers and processes to construct mathamatical models. Non-integer constants like pi and e are represented by the corresponding processes not decimal numbers. "M7" demonstrates the advantages of a mathematical system based on the philosophy of Leopold Kronecker.
+
+The "S7" is a general purpose multi-dimensional signal processing system. This is a re-write of an existing system. The new version will be compatible with the Andorville™ Network.
+
+The "Q7" system is a demonstration of the "3D Wavenumber" interpretation of quantum mechanics. Multi-dimensional Fourier transforms share some of the peculiar behaviour observed in quantum mechanics.
+
+rgc 17 September 2019.
