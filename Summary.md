@@ -42,10 +42,21 @@ The Regression application provides linear and non-linear regression services to
 
 ***Other Projects in Development:***
 
-The "M7" alternative mathematics system is based in "H7+" but with mathematical instructions added. This system uses only integers and processes to construct mathematical models. Non-integer constants like pi and e are represented by the corresponding processes not decimal numbers. "M7" demonstrates the advantages of a mathematical system based on the philosophy of Leopold Kronecker.
+The "M7" alternative mathematics system is based in "H7+" but with mathematical instructions added. This system uses only whole numbers and processes to construct mathematical models. Non-integer constants like pi and e are represented by the corresponding processes not decimal numbers. "M7" demonstrates the advantages of a mathematical system based on the philosophy of Leopold Kronecker.
 
 "S7" is a general purpose multi-dimensional signal processing system. This is a re-write of an existing system. The new version will be compatible with the Andorville™ Network.
 
-The "Q7" system is a demonstration of the "3D Wavenumber" interpretation of quantum mechanics. Multi-dimensional Fourier transforms share some of the peculiar behaviour observed in quantum mechanics.
+The "Q7" system is a demonstration of a suggested "3D Wavenumber - Time" (3DKT) interpretation of quantum mechanics. Multi-dimensional Fourier transforms share some of the peculiar behaviours observed in quantum mechanics experiments.
 
-rgc 17 September 2019.
+Key points of the 3DKT interpretation:
+Quantum mechanics occurs in the 3D Wavenumber - Time domain.
+Elementary particles, photons etc are the space domain manifestation of sets of 3D waveforms.
+Space is an illusion, representing the differences in phase between waveforms in the wavenumber domain.
+Elementary particles, photons etc are only manifested in the apparent space domain at the moment of interaction.
+Between interactions, 3D waveforms evolve in the wavenumber domain. This produces the perceived quantum mechanics wierdness in the apparent space domain.
+
+These ideas are hard to comprehend without a background in multi-dimensional filter theory. The Q7 software project will aim to demonstrate quantum mechanics processes in the 3DKT domain.
+
+19 September 2019
+
+Copyright © Robert Cowley 2019
