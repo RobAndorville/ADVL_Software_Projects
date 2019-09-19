@@ -8,7 +8,7 @@ The Andorville™ Network (previously called the Message Service) uses the Micro
 The Project Network Software (previously called the Application Network) is used to create a hierarchy of projects to build a data model. The activity of the project host applications is coordinated to perform processing and analysis of the data model. (Update in progress.)
 
 ***Utilities Library***
-The Utilties Class Library contains a set of common classes used by Andorville™ applications. It contains classes to manage projects, compress data, and run XMessage instructions used to communicate between applications.
+The Utilities Class Library contains a set of common classes used by Andorville™ applications. It contains classes to manage projects, compress data, and run XMessage instructions used to communicate between applications.
 
 ***Application Template***
 The Application Template is a simple example application containing all the software features required for an Andorville™ application.
@@ -50,10 +50,10 @@ The "Q7" system is a demonstration of a suggested "3D Wavenumber - Time" (3DKT) 
 
 Key points of the 3DKT interpretation:
 Quantum mechanics occurs in the 3D Wavenumber - Time domain.
-Elementary particles, photons etc are the space domain manifestation of sets of 3D waveforms.
+Elementary particles, photons etc. are the space domain manifestation of sets of 3D waveforms.
 Space is an illusion, representing the differences in phase between waveforms in the wavenumber domain.
-Elementary particles, photons etc are only manifested in the apparent space domain at the moment of interaction.
-Between interactions, 3D waveforms evolve in the wavenumber domain. This produces the perceived quantum mechanics wierdness in the apparent space domain.
+Elementary particles, photons etc. are only manifested in the apparent space domain at the moment of interaction.
+Between interactions, 3D waveforms evolve in the wavenumber domain. This produces the perceived quantum mechanics weirdness in the apparent space domain.
 
 These ideas are hard to comprehend without a background in multi-dimensional filter theory. The Q7 software project will aim to demonstrate quantum mechanics processes in the 3DKT domain.
 
