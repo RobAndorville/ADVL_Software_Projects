@@ -38,11 +38,11 @@ The Well Deviation application calculates the deviation of an oil well from devi
 The Regression application provides linear and non-linear regression services to applications connected to the Andorville™ Network. (Update in progress.)
 
 ***"H7" Code***
-"H7" code consists of a sequence of information/destination pairs that are used to control an Andorville™ application. This code is converted to XML format for file storage. "H7+" code contains instructions for loops, branches and subroutines and is used to store processing sequences.
+"H7" code consists of a sequence of information/destination pairs that are used to control an Andorville™ application. This code is converted to XML format for Network transmission and for file storage. "H7+" code contains instructions for loops, branches and subroutines and is used to code processing sequences.
 
 ***Other Projects in Development:***
 
-The "M7" alternative mathematics system is based in "H7+" but with mathematical instructions added. This system uses only whole numbers and processes to construct mathematical models. Non-integer constants like pi and e are represented by the corresponding processes not decimal numbers. "M7" demonstrates the advantages of a mathematical system based on the philosophy of Leopold Kronecker.
+The "M7" alternative mathematics system is based in "H7+" but with mathematical instructions added. This system uses only whole numbers and processes to construct mathematical models. Non-integer constants like pi and e are represented by the corresponding processes instead of decimal numbers. "M7" demonstrates the advantages of a mathematical system based on the philosophy of Leopold Kronecker.
 
 "S7" is a general purpose multi-dimensional signal processing system. This is a re-write of an existing system. The new version will be compatible with the Andorville™ Network.
 
@@ -59,4 +59,4 @@ These ideas are hard to comprehend without a background in multi-dimensional fil
 
 19 September 2019
 
-Copyright © Robert Cowley 2019
+Copyright © 2019 Robert Cowley
