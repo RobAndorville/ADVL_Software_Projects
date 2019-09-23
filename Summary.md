@@ -1,11 +1,11 @@
 # Summary of the Andorville™ Software Projects
-Andorville™ applications are small single-purpose programs that are easy to code and modify. They can be connected and coordinated through the Application Network. "H7" code is used to control each application and communicate between applications. This code stores the machine intelligence of a multi-project application.
+Andorville™ applications are small single-purpose programs that are easy to code and modify. They can be connected and coordinated through the Andorville™ Network. "H7" code is used to control each application and communicate between applications. This code stores the machine intelligence of a multi-project application.
 
 ***Network***
-The Andorville™ Network (previously called the Message Service) uses the Microsoft® Windows® Communication Foundation (WCF) to allow Andorville™ applications to exchange information and interact to perform higher level functions. (Update in progress.)
+The Andorville™ Network (previously called the Message Service) uses the Microsoft® Windows® Communication Foundation (WCF) to allow Andorville™ applications to exchange information and interact to perform higher level functions.
 
 ***Project Network***
-The Project Network Software (previously called the Application Network) is used to create a hierarchy of projects to build a data model. The activity of the project host applications is coordinated to perform processing and analysis of the data model. (Update in progress.)
+The Project Network Software (previously called the Application Network) is used to create a hierarchy of projects to build a data model. The activity of the project host applications is coordinated to perform processing and analysis of the data model.
 
 ***Utilities Library***
 The Utilities Class Library contains a set of common classes used by Andorville™ applications. It contains classes to manage projects, compress data, and run XMessage instructions used to communicate between applications.
@@ -42,21 +42,13 @@ The Regression application provides linear and non-linear regression services to
 
 ***Other Projects in Development:***
 
-The "M7" alternative mathematics system is based in "H7+" but with mathematical instructions added. This system uses only whole numbers and processes to construct mathematical models. Non-integer constants like pi and e are represented by the corresponding processes instead of decimal numbers. "M7" demonstrates the advantages of a mathematical system based on the philosophy of Leopold Kronecker.
+The "M7" alternative mathematics system is based in "H7+" but with mathematical instructions added. This system uses only whole numbers and processes to construct mathematical models. Non-integer constants like pi and e are represented by the corresponding processes instead of decimal numbers. "M7" demonstrates the advantages of a simplified mathematical system based on the philosophy of Leopold Kronecker.
 
 "S7" is a general purpose multi-dimensional signal processing system. This is a re-write of an existing system. The new version will be compatible with the Andorville™ Network.
 
-The "Q7" system is a demonstration of a suggested "3D Wavenumber - Time" (3DKT) interpretation of quantum mechanics. Multi-dimensional Fourier transforms share some of the peculiar behaviours observed in quantum mechanics experiments.
+"Q7" is a quantum mechanics modelling system.
 
-Key points of the 3DKT interpretation:
-Quantum mechanics occurs in the 3D Wavenumber - Time domain.
-Elementary particles, photons etc. are the space domain manifestation of sets of 3D waveforms.
-Space is an illusion, representing the differences in phase between waveforms in the wavenumber domain.
-Elementary particles, photons etc. are only manifested in the apparent space domain at the moment of interaction.
-Between interactions, 3D waveforms evolve in the wavenumber domain. This produces the perceived quantum mechanics weirdness in the apparent space domain.
 
-These ideas are hard to comprehend without a background in multi-dimensional filter theory. The Q7 software project will aim to demonstrate quantum mechanics processes in the 3DKT domain.
-
-19 September 2019
+23 September 2019
 
 Copyright © 2019 Robert Cowley
