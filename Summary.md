@@ -46,15 +46,9 @@ The "M7" alternative mathematics system is based in "H7+" but with mathematical 
 
 "S7" is a general purpose multi-dimensional signal processing system. This is a re-write of an existing system. The new version will be compatible with the Andorville™ Network.
 
-"Q7" is a quantum mechanics modelling system. This system demonstrates the key features of the 3D Wavenumber (3DK) interpretation of quantum mechanics.
-
-The term wavenumber refers to frequency in the distance domain rather than the usual time domain. The more familiar frequency term is used in place of wavenumber in the following summary.
-
-In the 3DK interpretation of quantum mechanics, the universe evolves in the 3D frequency domain. Quantum decoherence is a momentary distance domain image produced when elementary particles interact. This is analogous to an inverse Fourier transform process. Space is an illusion, representing the differences in phase between the waveforms in the frequency domain that form the elementary particles. The apparent quantum mechanics weirdness observed in the distance domain is normal behaviour in the frequency domain.
-
-The universe evolves from moment to moment in the frequency domain. There is an upper frequency limit in this domain that sets the resolution and speed limits in the apparent distance domain.
+"Q7" is a quantum mechanics modelling system.
 
 
-13 November 2019
+14 November 2019
 
 Copyright © 2019 Robert Cowley
