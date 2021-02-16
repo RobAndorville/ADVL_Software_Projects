@@ -2,7 +2,7 @@
 
 Andorville™ applications, or software cells, are small single-purpose programs that are easy to code and modify. They can be used in stand-alone mode or linked together to form larger "multi-cellular" applications.
 
-The cells are connected together and coordinated through the Andorville™ Network. "H7" code is used to control each cell and communicate between cells.
+The cells are connected together and coordinated through the Andorville™ Network. XML based "H7" code is used to control each cell and communicate between cells.
 
 Each cell is linked to a project that contains information and processes related to the cell's function. The Project Network software manages and coordinates a collection of projects that stores the data used by a multi-cellular application.
 
@@ -64,6 +64,6 @@ The "M7" alternative mathematics system is based on "H7+" but with mathematical 
 "Q7" is a quantum mechanics modelling system. This system is designed to test a multi-dimensional frequency domain interpretation of quantum mechanics. In this interpretation, the energy of a particle, or a group of particles, evolves in the multi-dimensional frequency domain. The energy only appears as a particle, localized in the apparent space domain, at the instant of interaction with the energy of another particle. This interaction is also called an observation. This is analogous to an inverse Fourier transformation from the frequency (or wavenumber) domain to the space domain. Between interactions, the energy continues to evolve in the frequency domain, unobserved.
 
 
-15 February 2021
+17 February 2021
 
 Copyright © 2021 Robert Cowley
