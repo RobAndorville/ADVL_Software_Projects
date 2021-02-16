@@ -1,6 +1,5 @@
 # ADVL_Software_Projects
 
-- - -
 
 The Andorville™ software projects are a set of small, single purpose applications.
 Each application can be used in stand-alone mode and operated manually through a user interface.
@@ -12,7 +11,7 @@ Each application connects to a project that contains information, settings, proc
 - - -
 
 
-++The Andorville™ Multi-Cellular Software System++
+**The Andorville™ Multi-Cellular Software System**
 
 The Andorville™ Experimental Multi-Cellular Software System consists of a Message Network, Data Project Network, project management system, data exchange and control formats and a collection of applications and data projects that can be connected to the network.
 
