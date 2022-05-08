@@ -41,7 +41,7 @@ The Shares application is used to analyse share market data. Separate Access dat
 The Document Library application creates, stores and edits documents in different formats including text, rtf, xml and html.
 
 ***Information Library***
-The Information Library application stores a collection of related information as nodes in a tree structure. The software allows multiple versions and updates of each information node. (Note: An update is required for coompatibility with the latest Andorville™ system formats.)
+The Information Library application stores a collection of related information as nodes in a tree structure. The software allows multiple versions and updates of each information node. (Note: An update is required for compatibility with the latest Andorville™ system formats.)
 
 ***Well Deviation***
 The Well Deviation application calculates the deviation of an oil well from deviation log measurements. The software uses the Coordinates application to calculate the projected coordinates of the well location from the geodetic coordinates. The well path is plotted in plan and vertical section views.
